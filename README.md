@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubham2395
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Google Data Analytics Certificate Programme
+- 🌱 I’m a certified entry level data analytics professional after completing the Google Data Analytics Certificate Programme
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me : Email at shubhambatra41@gmail.com
 
